@@ -1,0 +1,12 @@
+package fundamentos;
+
+import fundamentos.model.Mobile;
+
+public class Sistema {
+
+	public static void main(String[] args) {
+		Mobile iphone = new Mobile();
+						
+	}
+
+}

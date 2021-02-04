@@ -1,0 +1,9 @@
+package fundamentos.collections;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class MapCollection {
+	Map<K,V> frutas = new HashMap();
+	frutas.put("0", "maçã");
+}

@@ -1,0 +1,17 @@
+package fundamentos.model;
+
+public class Carro {
+	String cor;
+	public String marca;
+	public String modelo;
+	String combustivel;
+
+	
+	public void acelerar() {
+		
+	}
+	
+	private void va() {
+		
+	}
+}

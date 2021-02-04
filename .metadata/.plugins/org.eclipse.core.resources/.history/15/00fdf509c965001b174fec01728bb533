@@ -1,0 +1,43 @@
+package fundamentos.model;
+
+import Interfaces.Email;
+import Interfaces.Message;
+
+public class Mobile implements Email, Message {
+	String text;
+	String destination;
+		
+	@Override
+	public String sendEmail(String message) {
+		String text = message;
+		return this.text;
+	}
+
+	@Override
+	public void sendMessage() {
+				
+	}
+	
+	@Override
+	public void emailText() {
+		
+	}
+		
+	@Override
+	public void messageText() {
+				
+	}
+	
+	@Override
+	public void emailDestination() {
+		
+	}
+
+	@Override
+	public void messageDestination() {
+				
+	}
+	
+	
+	
+}

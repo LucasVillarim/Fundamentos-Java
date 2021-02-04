@@ -1,0 +1,10 @@
+package fundamentos;
+
+public class Carro {
+	String cor;
+	String marca;
+	String modelo;
+	String combustivel;
+	
+
+}

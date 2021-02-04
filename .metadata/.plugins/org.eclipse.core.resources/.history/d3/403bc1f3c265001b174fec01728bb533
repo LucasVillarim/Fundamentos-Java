@@ -1,0 +1,14 @@
+package fundamentos.model;
+
+public class Pessoa {
+
+	public static void main(String[] args) {
+		byte idade;
+		int codigoCidade;
+		int altura;
+		boolean estrangeira;
+		String nome;
+
+	}
+
+}

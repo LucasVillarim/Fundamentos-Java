@@ -1,0 +1,7 @@
+package Interfaces;
+
+public interface Email {
+	public Object sendEmail(String message, String person);
+
+
+}

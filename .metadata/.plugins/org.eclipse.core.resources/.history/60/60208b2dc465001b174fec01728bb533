@@ -1,0 +1,16 @@
+package fundamentos;
+
+import fundamentos.model.Carro;
+
+public class Sistema {
+
+	public static void main(String[] args) {
+		Carro carro = new Carro();
+		
+		Carro tesla = new Carro();
+		tesla.marca = "TESLA";
+		
+		System.out.println(tesla.marca);
+	}
+
+}

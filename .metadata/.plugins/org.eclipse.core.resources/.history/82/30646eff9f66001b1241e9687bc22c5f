@@ -1,0 +1,20 @@
+package fundamentos;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import fundamentos.model.Mobile;
+
+public class Sistema {
+
+  	public static void main(String[] args) {
+  		Map<String, String> frutas = new HashMap<String, String>();
+  		frutas.put("0", "maçã");
+  		frutas.put("1", "banana");
+  		frutas.put("2", "melância");
+  		frutas.put("3", "maracujá");
+  		frutas.put("4", "banana");
+
+  		System.out.println(frutas.get(2));
+	}
+}

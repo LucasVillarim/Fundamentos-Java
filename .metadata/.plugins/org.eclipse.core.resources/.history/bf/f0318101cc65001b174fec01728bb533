@@ -1,0 +1,15 @@
+package fundamentos;
+
+import fundamentos.model.Mobile;
+
+public class Sistema {
+
+	public static void main(String[] args) {
+		Mobile iphone = new Mobile();
+		
+		System.out.println(iphone.sendEmail("Hello this is my email", "to João"));
+		
+		System.out.println(iphone.sendMessage("Hello this is my message", "to Júlia"));
+		
+	}
+}
