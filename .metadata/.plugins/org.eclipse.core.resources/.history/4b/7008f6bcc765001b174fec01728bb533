@@ -1,6 +1,0 @@
-package fundamentos.model;
-
-public class Mobile extends Message {
-		
-	
-}

@@ -1,7 +1,0 @@
-package Interfaces;
-
-public interface Message {
-	public void sendMessage();
-	public void messageText();
-	public void messageDestination();
-}

@@ -1,7 +1,0 @@
-package Interfaces;
-
-public interface Email {
-	public String sendEmail(String message, String to);
-
-
-}

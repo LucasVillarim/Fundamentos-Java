@@ -1,6 +1,0 @@
-package fundamentos.model;
-
-public class Email {
-	String text;
-	String destination;
-}

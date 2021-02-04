@@ -1,6 +1,0 @@
-package Interfaces;
-
-public interface Email {
-	public void text();
-	public void Destination();
-}
